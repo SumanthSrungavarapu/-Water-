@@ -1,2 +1,2 @@
-# -Water-
-Aimed to create a fully automated solution to turn on and off water pump based on overhead tank
+# -Water- Didnt think of a name yet
+Goal: Aimed to create a fully automated solution to turn on and off water pump based on overhead tank
